@@ -1,2 +1,2 @@
-# DataSciences-AI-MachineLearning-Projects
+# DataScience-AI-MachineLearning-Projects
 Some Data Sciences, Machine Learning &amp; Deep Learning personal projects 
